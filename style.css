@@ -6,8 +6,12 @@
     scroll-behavior: smooth;
 }
 body{
+
    color: #333;
-    background: linear-gradient(120deg, #00246B, #CADCFC);
+    background-image: url('images/pic 1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
 }
 .column-layout{
@@ -17,9 +21,9 @@ body{
     gap: 20px;
 }
 .section-container {
-    max-width: 80%;
+    max-width: 800px;
     background-color: white;
-    padding: 40px;
+    padding:30px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     opacity: 1;
@@ -200,10 +204,15 @@ p{
 }
 .timeline-horizontal {
     display: flex;
+    flex-direction: column; 
+    width: 800px;
     overflow-x: auto;
-    gap: 40px;
+    gap: 20px;
     padding: 20px 0;
     scroll-behavior: smooth;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
 }
 
 .timeline-item {
@@ -225,6 +234,16 @@ p{
     font-size: 18px;
     font-weight: bold;
 }
+.footer {
+    background-color: #00246B;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 16px;
+    margin-top: 40px;
+    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.1);
+}
+
 
 
 
