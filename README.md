@@ -13,8 +13,8 @@ This is my personal portfolio website designed to showcase my background, skill,
 -Responsive Design with media queries,
 -Boxicons for icon
 ### ⚙️Installation
-git clone https://github.com/sheemungai/your-portfolio-repo.git
-cd your-portfolio-repo
+-git clone https://github.com/sheemungai/your-portfolio-repo.git
+-cd your-portfolio-repo
 ### 👩Author
 Name: Sheilla Njeri Mungai
 🔗 LinkedIn
