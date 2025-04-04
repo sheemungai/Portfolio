@@ -8,10 +8,10 @@ A simple, responsive portfolio website showcasing my skills, projects, certifica
 ### About
 This is my personal portfolio website designed to showcase my background, skill, projects and achievements in a professional and presentable format.
 ### 🛠️Tech Stack
-HTML5
-CSS3
-Responsive Design with media queries
-Boxicons for icon
+-HTML5,
+-CSS3,
+-Responsive Design with media queries,
+-Boxicons for icon
 ### ⚙️Installation
 git clone https://github.com/sheemungai/your-portfolio-repo.git
 cd your-portfolio-repo
